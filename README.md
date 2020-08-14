@@ -1,6 +1,8 @@
 # DeepCTCFLoop
 DeepCTCFLoop is a deep learning model to predict whether a chromatin loop can be formed between a pair of convergent or tandem CTCF motifs using only the DNA sequences of the motifs and their flanking regions, and learn the sequence patterns hidden in the adjacent sequences of CTCF motifs. The DeepCTCFLoop model is implemented in Python using Keras 2.2.4 on a high performance computing cluster.
 
+This documentation is part of the supplementary information release for DeepCTCFLoop. For details of this work, users can refer to our paper "Deep Learning of CTCF-Mediated Chromatin Loops in 3D Genome Organization" (S. Kuang and L. Wang, 2020).
+
 ## Requirements
 - python3
 - numpy 
